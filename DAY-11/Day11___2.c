@@ -2,7 +2,6 @@
 int max(int a, int b){
     return (a>b)?a:b;
 }
-
 int main(){
     int x, y, result;
 
@@ -14,4 +13,4 @@ int main(){
     printf("Maximum = %d", result);
 
     return 0;
-}
+} 
